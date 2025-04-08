@@ -1,0 +1,14 @@
+# Server Configuration
+PORT=5003
+NODE_ENV=development
+# Database Configuration
+DB_HOST=127.0.0.1
+DB_USER=pmt
+DB_PASSWORD='M!%bd87ssword#23'
+DB_NAME=pmtdb
+# JWT Configuration
+JWT_SECRET=your-super-secret-jwt-key
+JWT_EXPIRES_IN=24h
+# production
+PRODUCTION_DB_USER=pmt
+PRODUCTION_DB_PASSWORD='M!%bd87ssword#23'
