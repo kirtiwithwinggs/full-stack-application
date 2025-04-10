@@ -5,7 +5,7 @@ const db = require('./models');
 
 dotenv.config();
 
-const app = express();
+
 
 // Middleware
 app.use(cors());
